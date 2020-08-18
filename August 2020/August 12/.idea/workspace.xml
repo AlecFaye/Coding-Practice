@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d29a66f0-90a2-4ded-ad76-26bd112c70f1" name="Default Changelist" comment="" />
+    <list default="true" id="26fc0ed1-e653-4c1e-9aed-baa42438d5b0" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,7 +18,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectId" id="1fykCO0cwrCyBeSi21iBAX1WUhE" />
+  <component name="ProjectId" id="1g0MIHRNYsHW8MGbYAQj4TL12jL" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -35,9 +35,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Frogger">
-    <configuration name="Frogger" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="August 11" />
+  <component name="RunManager" selected="Python.BeaverGnaw">
+    <configuration name="BeaverGnaw" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="August 12" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -48,7 +48,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Frogger.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BeaverGnaw.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -57,8 +57,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Shopaholic" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="August 11" />
+    <configuration name="EncodedMessage" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="August 12" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -69,49 +69,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Shopaholic.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="SpeedLimit" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="August 11" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SpeedLimit.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Trik" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="August 11" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Trik.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EncodedMessage.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -122,10 +80,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Frogger" />
-        <item itemvalue="Python.Shopaholic" />
-        <item itemvalue="Python.Trik" />
-        <item itemvalue="Python.SpeedLimit" />
+        <item itemvalue="Python.BeaverGnaw" />
+        <item itemvalue="Python.EncodedMessage" />
       </list>
     </recent_temporary>
   </component>
@@ -134,11 +90,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d29a66f0-90a2-4ded-ad76-26bd112c70f1" name="Default Changelist" comment="" />
-      <created>1597197591101</created>
+      <changelist id="26fc0ed1-e653-4c1e-9aed-baa42438d5b0" name="Default Changelist" comment="" />
+      <created>1597246974521</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1597197591101</updated>
+      <updated>1597246974521</updated>
     </task>
     <servers />
   </component>
