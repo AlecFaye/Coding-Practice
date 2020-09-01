@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="35dbb901-2e61-4640-9f92-adfa1973cc17" name="Default Changelist" comment="" />
+    <list default="true" id="bdedf28b-c47f-4ae0-9d17-efd3c064a77c" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,10 +18,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectId" id="1ggeSKr6e6XtN9SXpSavXAFTvRe" />
+  <component name="ProjectId" id="1gt4BHlitOO3N4ugp3XntGg8mar" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../August 27" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -36,9 +36,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.EstimatingTheAreaOfACircle">
-    <configuration name="CryptographersConundrum" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="August 27" />
+  <component name="RunManager" selected="Python.Prsteni">
+    <configuration name="EverywhereMan" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="August 31" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -49,7 +49,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CryptographersConundrum.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EverywhereMan.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -58,8 +58,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="EstimatingTheAreaOfACircle" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="August 27" />
+    <configuration name="Kornislav" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="August 31" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -70,7 +70,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EstimatingTheAreaOfACircle.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Kornislav.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -79,8 +79,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="SynchronizingLists" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="August 27" />
+    <configuration name="Prsteni" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="August 31" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -91,7 +91,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SynchronizingLists.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Prsteni.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SodaSlurper" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="August 31" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SodaSlurper.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -102,9 +123,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.EstimatingTheAreaOfACircle" />
-        <item itemvalue="Python.SynchronizingLists" />
-        <item itemvalue="Python.CryptographersConundrum" />
+        <item itemvalue="Python.Prsteni" />
+        <item itemvalue="Python.SodaSlurper" />
+        <item itemvalue="Python.EverywhereMan" />
+        <item itemvalue="Python.Kornislav" />
       </list>
     </recent_temporary>
   </component>
@@ -113,11 +135,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="35dbb901-2e61-4640-9f92-adfa1973cc17" name="Default Changelist" comment="" />
-      <created>1598540660584</created>
+      <changelist id="bdedf28b-c47f-4ae0-9d17-efd3c064a77c" name="Default Changelist" comment="" />
+      <created>1598920417556</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1598540660584</updated>
+      <updated>1598920417556</updated>
     </task>
     <servers />
   </component>
@@ -126,9 +148,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
