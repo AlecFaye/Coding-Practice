@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bdedf28b-c47f-4ae0-9d17-efd3c064a77c" name="Default Changelist" comment="" />
+    <list default="true" id="d24f00a4-41da-45dd-b6a0-3af30fd64951" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,10 +18,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectId" id="1gt4BHlitOO3N4ugp3XntGg8mar" />
+  <component name="ProjectId" id="1gv9yPkLeMmzrDvXhqNrEdKapql" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../August 27" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -36,9 +35,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Prsteni">
-    <configuration name="EverywhereMan" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="August 31" />
+  <component name="RunManager" selected="Python.BasicProgramming2">
+    <configuration name="BasicProgramming1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="September 1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -49,7 +48,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EverywhereMan.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BasicProgramming1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -58,8 +57,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Kornislav" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="August 31" />
+    <configuration name="BasicProgramming2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="September 1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -70,7 +69,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Kornislav.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BasicProgramming2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -79,8 +78,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Prsteni" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="August 31" />
+    <configuration name="DetailedDifferences" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="September 1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -91,7 +90,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Prsteni.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DetailedDifferences.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -100,8 +99,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="SodaSlurper" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="August 31" />
+    <configuration name="Tri" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="September 1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -112,7 +111,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SodaSlurper.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tri.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -123,10 +122,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Prsteni" />
-        <item itemvalue="Python.SodaSlurper" />
-        <item itemvalue="Python.EverywhereMan" />
-        <item itemvalue="Python.Kornislav" />
+        <item itemvalue="Python.BasicProgramming2" />
+        <item itemvalue="Python.BasicProgramming1" />
+        <item itemvalue="Python.Tri" />
+        <item itemvalue="Python.DetailedDifferences" />
       </list>
     </recent_temporary>
   </component>
@@ -135,11 +134,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="bdedf28b-c47f-4ae0-9d17-efd3c064a77c" name="Default Changelist" comment="" />
-      <created>1598920417556</created>
+      <changelist id="d24f00a4-41da-45dd-b6a0-3af30fd64951" name="Default Changelist" comment="" />
+      <created>1598984452044</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1598920417556</updated>
+      <updated>1598984452044</updated>
     </task>
     <servers />
   </component>
