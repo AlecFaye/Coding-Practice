@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9074dcb3-593a-4e04-b913-d463d41dae95" name="Default Changelist" comment="" />
+    <list default="true" id="12626ff5-3932-4ac3-9af7-70ec7435f8e8" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,7 +18,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectId" id="1lMAGdivfgbJRXjs6UlWfWFW7Wr" />
+  <component name="ProjectId" id="1lOnef7Ys5UHLnXjJtfLB7r3eOI" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -35,9 +35,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Railroad">
-    <configuration name="Chanukah_Challenge" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="December 07" />
+  <component name="RunManager" selected="Python.ICPC_Awards">
+    <configuration name="ICPC_Awards" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="December 08" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -48,7 +48,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chanukah_Challenge.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ICPC_Awards.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -57,8 +57,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Homework" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="December 07" />
+    <configuration name="Job_Expenses" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="December 08" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -69,7 +69,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Homework.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Job_Expenses.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -78,8 +78,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Railroad" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="December 07" />
+    <configuration name="License_to_Launch" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="December 08" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -90,7 +90,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Railroad.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/License_to_Launch.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -99,8 +99,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Reverse" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="December 07" />
+    <configuration name="Poker_Hand" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="December 08" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -111,7 +111,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Reverse.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Poker_Hand.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -120,8 +120,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Shattered_Cake" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="December 07" />
+    <configuration name="Provinces_and_Gold" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="December 08" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -132,7 +132,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Shattered_Cake.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Provinces_and_Gold.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -143,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Railroad" />
-        <item itemvalue="Python.Shattered_Cake" />
-        <item itemvalue="Python.Reverse" />
-        <item itemvalue="Python.Homework" />
-        <item itemvalue="Python.Chanukah_Challenge" />
+        <item itemvalue="Python.ICPC_Awards" />
+        <item itemvalue="Python.Job_Expenses" />
+        <item itemvalue="Python.License_to_Launch" />
+        <item itemvalue="Python.Poker_Hand" />
+        <item itemvalue="Python.Provinces_and_Gold" />
       </list>
     </recent_temporary>
   </component>
@@ -156,11 +156,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9074dcb3-593a-4e04-b913-d463d41dae95" name="Default Changelist" comment="" />
-      <created>1607396491820</created>
+      <changelist id="12626ff5-3932-4ac3-9af7-70ec7435f8e8" name="Default Changelist" comment="" />
+      <created>1607477101691</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1607396491820</updated>
+      <updated>1607477101691</updated>
     </task>
     <servers />
   </component>
@@ -169,9 +169,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
